@@ -136,3 +136,5 @@ func main() {
 
 	fmt.Println(startTraining(charName, charClass))
 }
+
+//task done
